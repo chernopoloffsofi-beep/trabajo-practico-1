@@ -1,6 +1,6 @@
 //Nombre y Apellido:chernopoloff sofia
 //Curso: 6b
-//Grupo
+//Grupo 603
 //Taller de Programacion III
 //Departamento de Informatica - EESTn°1 - Raul Scalabrini Ortiz
 
@@ -129,8 +129,6 @@ function esPrimo(numero) {
 
   return true;
 }
-
-
 // No modificar nada debajo de esta línea
 // --------------------------------
 
